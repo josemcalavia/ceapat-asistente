@@ -1,0 +1,5 @@
+# Configuración de proyecto para Codex: se usa al ejecutar `codex` dentro de esta carpeta.
+[mcp_servers.ceapat]
+command = "python3"
+args = ["server/mcp_server.py"]
+startup_timeout_sec = 30

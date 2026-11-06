@@ -1,0 +1,7 @@
+{
+  "name": "ceapat-asistente",
+  "version": "1.0.0",
+  "description": "Asesor conversacional de productos de apoyo con el catálogo completo del Ceapat-Imserso (actualización semanal automática).",
+  "author": { "name": "José María Calavia Balduz" },
+  "keywords": ["productos de apoyo", "ceapat", "terapia ocupacional", "accesibilidad", "ayudas técnicas"]
+}

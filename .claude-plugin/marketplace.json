@@ -1,0 +1,16 @@
+{
+  "name": "ceapat-asistente",
+  "owner": {
+    "name": "José María Calavia Balduz"
+  },
+  "plugins": [
+    {
+      "name": "ceapat-asistente",
+      "source": "./",
+      "description": "Asesor conversacional de productos de apoyo con el catálogo del Ceapat-Imserso."
+    }
+  ],
+  "metadata": {
+    "description": "Asistente de productos de apoyo basado en el catálogo del Ceapat-Imserso."
+  }
+}
