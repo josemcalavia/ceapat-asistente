@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Si usas este software, cítalo con estos metadatos."
+type: software
+title: "Asistente de productos de apoyo CEAPAT"
+abstract: "Asesor conversacional de productos de apoyo basado en el catálogo del Ceapat-Imserso: servidor MCP y plugin para Claude Code, compatible con Codex y Claude Desktop."
+authors:
+  - family-names: "Calavia Balduz"
+    given-names: "José María"
+    orcid: "https://orcid.org/0009-0001-7105-2022"
+    affiliation: "CSEU La Salle (adscrito a la UAM) y Centro Tangram"
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: 2026-11-06
+repository-code: "https://github.com/josemcalavia/ceapat-asistente"
+url: "https://github.com/josemcalavia/ceapat-asistente"
+keywords:
+  - "terapia ocupacional"
+  - "occupational therapy"
+  - "productos de apoyo"
+  - "assistive technology"
+  - "accesibilidad"
+  - "Ceapat"
+  - "MCP"
+  - "Claude Code"

@@ -1,0 +1,27 @@
+{
+  "title": "Asistente de productos de apoyo CEAPAT",
+  "description": "<p>Asesor conversacional de productos de apoyo basado en el Catálogo de Productos de Apoyo del Ceapat-Imserso (unos 2.300 productos y 400 empresas). Se describe en lenguaje natural la necesidad de una persona y propone las opciones más adecuadas, comentadas y con enlace a su ficha oficial y a la empresa. Es un servidor MCP empaquetado como plugin para Claude Code, compatible con Codex y Claude Desktop. Incluye una base de datos que se actualiza sola cada semana.</p><p>Los datos del catálogo pertenecen al Ceapat-Imserso. Este proyecto no es oficial y no tiene relación con el Imserso.</p>",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Calavia Balduz, José María",
+      "orcid": "0009-0001-7105-2022",
+      "affiliation": "CSEU La Salle (adscrito a la UAM) y Centro Tangram"
+    }
+  ],
+  "license": "cc-by-nc-sa-4.0",
+  "keywords": [
+    "terapia ocupacional",
+    "occupational therapy",
+    "productos de apoyo",
+    "assistive technology",
+    "ayudas técnicas",
+    "accesibilidad",
+    "Ceapat",
+    "ISO 9999",
+    "MCP",
+    "Claude Code"
+  ],
+  "language": "spa",
+  "version": "1.0.0"
+}

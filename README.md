@@ -1,5 +1,9 @@
 # Asistente de productos de apoyo CEAPAT
 
+[![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+
+Diseño original: **José María Calavia Balduz** · Licencia CC BY-NC-SA 4.0
+
 Un asistente conversacional que te recomienda productos de apoyo del **Catálogo de Productos de Apoyo del Ceapat-Imserso** (unos 2.300 productos y 400 empresas). Le cuentas en lenguaje natural qué necesitas y te propone las opciones más adecuadas. Cada opción va comentada (por qué encaja y qué tener en cuenta), con su **enlace directo a la ficha en CEAPAT** y los datos de contacto de la empresa.
 
 > *"Mi madre tiene 82 años y artrosis en las manos; le cuesta abrir botes y comer con los cubiertos normales."*
@@ -97,5 +101,17 @@ ceapat-asistente/
 ├── AGENTS.md             instrucciones del asesor (Codex)
 ├── .claude-plugin/       manifiesto del plugin y del marketplace
 ├── .mcp.json             servidor para Claude Code
+├── LICENCIA.md, LICENSE condiciones de uso y texto legal de la licencia
+├── CITATION.cff          datos para citar el proyecto
 └── .codex/config.toml    servidor para Codex (al trabajar en esta carpeta)
 ```
+
+## Licencia
+
+[Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Puedes usarlo, compartirlo y adaptarlo sin fines comerciales, manteniendo la autoría original y la misma licencia. La licencia cubre el código y las instrucciones del asesor, no los datos del catálogo, que pertenecen al Ceapat-Imserso. Detalles en [`LICENCIA.md`](LICENCIA.md).
+
+## Cómo citar
+
+Calavia Balduz, J. M. (2026). *Asistente de productos de apoyo CEAPAT* (Versión 1.0.0) [Software]. https://github.com/josemcalavia/ceapat-asistente
+
+También puedes usar el botón «Cite this repository» de GitHub, que lee `CITATION.cff`.
