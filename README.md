@@ -21,7 +21,7 @@ Para Codex, Claude Desktop o el uso sin instalar, descarga primero la carpeta:
 git clone https://github.com/josemcalavia/ceapat-asistente.git
 ```
 
-(o pulsa *Code → Download ZIP* en GitHub y descomprímela).
+(o pulsa *Code → Download ZIP* en GitHub y descomprímela). El ZIP no incluye la base de datos del catálogo: la primera vez que uses el asistente la descarga desde CEAPAT en unos minutos.
 
 ### Claude Code (como plugin)
 
@@ -76,7 +76,7 @@ En *Ajustes → Desarrollador → Editar configuración*, añade esto a `claude_
 
 ## Actualización de los datos
 
-- La primera vez que se usa, la base incluida se copia a `~/.ceapat-asistente/ceapat.db`.
+- La primera vez que se usa, la base incluida se copia a `~/.ceapat-asistente/ceapat.db`. Las descargas en ZIP (y el archivo de Zenodo) no la incluyen: en ese caso se descarga desde CEAPAT al arrancar por primera vez.
 - Cada vez que se arranca el asistente, si los datos tienen **más de 7 días**, se descargan de nuevo desde CEAPAT en segundo plano (tarda unos minutos y no interrumpe la conversación). Los datos de las empresas ya conocidas se reutilizan, para no cargar el servidor de CEAPAT.
 - Actualización manual: `python3 server/actualizar.py`
 - Para desactivar la actualización automática, define la variable `CEAPAT_AUTO_UPDATE=0`. Para guardar los datos en otra carpeta, usa `CEAPAT_DATA_DIR=/otra/ruta`.

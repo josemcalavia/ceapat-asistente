@@ -29,7 +29,7 @@ Resumen: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
 ## Lo que no cubre esta licencia
 
 - Los **datos del catálogo** (productos, descripciones, fotografías, clasificación y datos
-  de empresas), incluidos en `data/ceapat.db` y descargados de
+  de empresas), que el asistente guarda en `ceapat.db` y descarga de
   [catalogoceapat.imserso.es](https://catalogoceapat.imserso.es), pertenecen al
   Ceapat-Imserso y a sus titulares, y se rigen por sus propias condiciones de uso.
   Este proyecto no es oficial y no tiene relación con el Imserso.

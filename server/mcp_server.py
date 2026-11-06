@@ -191,7 +191,8 @@ def manejar(msg):
         p = msg.get("params") or {}
         try:
             if not core.DB.exists():
-                raise RuntimeError("No hay base de datos. Ejecuta: python3 server/actualizar.py")
+                raise RuntimeError("El catálogo del Ceapat se está descargando por primera vez (tarda unos minutos). "
+                                   "Vuelve a intentarlo en un rato. Si no avanza, ejecuta: python3 server/actualizar.py")
             res = ejecutar(p.get("name"), p.get("arguments") or {})
             responder(id_, {"content": [{"type": "text", "text": _txt(res)}], "isError": False})
         except Exception as e:  # noqa: BLE001

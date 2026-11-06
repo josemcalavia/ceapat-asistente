@@ -1,6 +1,6 @@
 {
   "title": "Asistente de productos de apoyo CEAPAT",
-  "description": "<p>Asesor conversacional de productos de apoyo basado en el Catálogo de Productos de Apoyo del Ceapat-Imserso (unos 2.300 productos y 400 empresas). Se describe en lenguaje natural la necesidad de una persona y propone las opciones más adecuadas, comentadas y con enlace a su ficha oficial y a la empresa. Es un servidor MCP empaquetado como plugin para Claude Code, compatible con Codex y Claude Desktop. Incluye una base de datos que se actualiza sola cada semana.</p><p>Los datos del catálogo pertenecen al Ceapat-Imserso. Este proyecto no es oficial y no tiene relación con el Imserso.</p>",
+  "description": "<p>Asesor conversacional de productos de apoyo basado en el Catálogo de Productos de Apoyo del Ceapat-Imserso (unos 2.300 productos y 400 empresas). Se describe en lenguaje natural la necesidad de una persona y propone las opciones más adecuadas, comentadas y con enlace a su ficha oficial y a la empresa. Es un servidor MCP empaquetado como plugin para Claude Code, compatible con Codex y Claude Desktop. Al usarse por primera vez descarga el catálogo y lo actualiza sola cada semana.</p><p>Este archivo contiene solo el código y las instrucciones del asesor; no incluye los datos del catálogo.</p><p>Los datos del catálogo pertenecen al Ceapat-Imserso. Este proyecto no es oficial y no tiene relación con el Imserso.</p>",
   "upload_type": "software",
   "creators": [
     {
