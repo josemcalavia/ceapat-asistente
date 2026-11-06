@@ -1,6 +1,7 @@
 # Asistente de productos de apoyo CEAPAT
 
 [![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24023815.svg)](https://doi.org/10.5281/zenodo.24023815)
 
 Diseño original: **José María Calavia Balduz** · Licencia CC BY-NC-SA 4.0
 
@@ -112,6 +113,6 @@ ceapat-asistente/
 
 ## Cómo citar
 
-Calavia Balduz, J. M. (2026). *Asistente de productos de apoyo CEAPAT* (Versión 1.0.0) [Software]. https://github.com/josemcalavia/ceapat-asistente
+Calavia Balduz, J. M. (2026). *Asistente de productos de apoyo CEAPAT* (Versión 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24023815
 
-También puedes usar el botón «Cite this repository» de GitHub, que lee `CITATION.cff`.
+Este DOI (10.5281/zenodo.24023815) agrupa todas las versiones y siempre apunta a la más reciente; cada versión tiene además su propio DOI en Zenodo. También puedes usar el botón «Cite this repository» de GitHub, que lee `CITATION.cff`.
